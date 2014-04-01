@@ -58,6 +58,6 @@ private:
 	HRGN  m_hRgn;      //*区域
 	HPEN  m_hPen;      //*笔
 protected:
-	void Clear(); //*清除移动痕迹
+	void Clear(); //*清除移动痕迹111111
 
 };
